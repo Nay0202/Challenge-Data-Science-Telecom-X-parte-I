@@ -4,9 +4,9 @@
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Funcionalidades, Demonstrações e Insights](#funcionalidades-e-demonstrações)
-- [Acesso ao Projeto](#acesso-ao-projeto)
+- [Maiores Porcentagens de Churn por Categoria](#maiores-e-porcentagens)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Desenvolvedora do Projeto](#desenvolvedora-do-projeto)
+
 
 ---
 
