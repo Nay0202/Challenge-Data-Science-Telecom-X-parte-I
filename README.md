@@ -22,14 +22,14 @@ Este projeto realiza uma análise detalhada sobre o churn (evasão) de clientes 
 
 - Cerca de **25,7%** dos clientes cancelaram o serviço.
 
-![Gráfico de cancelamento](churn.png)
+![Gráfico de cancelamento](imagens/churn.png)
 
 
 ### Maiores Porcentagens de Churn por Categoria
 
 - Clientes por sexo, contratos Suporte Técnico, Serviço  e  métodos de pagamento apresentaram  risco de cancelamento. O maior risto de cancelando foi pelo método de cancelamento em débito automático.
 
-![Gráfico de cancelamento por categoria](variaveis.png)
+![Gráfico de cancelamento por categoria](imagens/variaveis.png)
 
 
  ## 🛠 Tecnologias Utilizadas
